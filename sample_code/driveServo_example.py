@@ -1,5 +1,5 @@
 # Copyright 2021 Holbox Corporation
-# Use under MIT license
+# Use under the MIT license
 
 import holbox_ppm_pwm_lib
 import time
